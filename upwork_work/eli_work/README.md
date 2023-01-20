@@ -1,4 +1,4 @@
-# Train and Hyper-tune several algorithm using GridSearch, cuML and sklearn.
+# Train and Hyper-tune several algorithms using GridSearch, cuML and sklearn.
 
 In this work, I attempted to train various Machine learning models in order to fine the best estimator performed in this tabular dataset.
 

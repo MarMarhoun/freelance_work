@@ -8,4 +8,6 @@ Amazon Product Reviews Sentiment Analysis in Python So here comes the Machine le
 
 In this project, I introduced various methods for preprocessing, visualizing and training the nlp data. For the preprocessing, cleaning, I used one the the two proposed methods because the second one takes a long time to clean the data. In the training section, I used three well know models namely SVM, XGboost (Twice), and BERT.
 
-> You can use this 
+> In case the file named product_review_sa.ipynb is enable to render the notebook. You can access the notebook using this [link](https://colab.research.google.com/drive/13cRZ-0hPVgqy4sVLTV0lxNYAe9ThXpTT#scrollTo=_uhB9ERnmpbZ).
+
+

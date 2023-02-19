@@ -8,4 +8,4 @@ I used multiple packages for training and Hyper-tuning the model such as cuML (T
 
 > Please, don't hesitate to ask or need help.
 
-> In case the file named *liza_upwork_f.ipynb* is enable to render the notebook. You can access the notebook using this [link](https://nbviewer.org/github/MarMarhoun/freelance_work/blob/main/upwork_work/eli_work/liza_upwork_f.ipynb).
+> In case the file named *liza_upwork_f.ipynb* is enable to render the notebook. You can access the notebook using this [link](https://colab.research.google.com/drive/1i4df739YGI_zeOjQl0_ApdsQ12NnSlbt).

@@ -12,3 +12,5 @@ URLs dataset with features built and used for evaluation in the paper "[PhishSto
 The dataset contains 96,018 URLs: 48,009 legitimate URLs and 48,009 phishing URLs.
 
 This is a CSV file where the "domain" column provides a unique identifier for each entry (which is actually a URL). The "label" column provides the domain entry status, 0: legitimate / 1:phishing.
+
+> If the notebook is unable to open, check this [link](https://colab.research.google.com/drive/1iuZiqOqzS1RzfJcPTM9janm_jal7j_Rz#scrollTo=zjXf1st6UUkU).

@@ -19,3 +19,10 @@ The data contains three main columns:
 3. Label- the label of the news tweet, either Fake or Real.
 
 For this analysis, I will only be focusing on the actual text of the tweet.
+
+
+> Other datasets: 
+> [Fake News Dataset](https://data.mendeley.com/datasets/945z9xkc8d) 1.
+> [Fake News Dataset](https://data.4tu.nl/articles/dataset/Repository_of_fake_news_detection_datasets/14151755) 2.
+> [Fake News Dataset](https://www.kaggle.com/c/fake-news/data) 3.
+> [Fake News Dataset](https://huggingface.co/datasets/GonzaloA/fake_news) 4.

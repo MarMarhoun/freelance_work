@@ -27,3 +27,6 @@ Implement the following changes to the code-base
 
 
 Once you've completed the tasks, zip up the project folder and send it back to Lorraine via email
+
+
+> You can download the mini-task from the following (link)[https://drive.google.com/file/d/1u1rJWYAbq3KgUAoOEzNOnOaTuxQIVH54/view?usp=sharing].

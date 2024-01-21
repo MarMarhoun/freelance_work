@@ -29,7 +29,7 @@ Streamlit library installed in your Python environment.
 
 ## Image depression prediction using deep learning, online dataset, XAI and deploy it into streamlit and tensorflow
 
-The code for image depression prediction using deep learning, online dataset, XAI (Explainable Artificial Intelligence), and deploy it into Streamlit and TensorFlow, you can follow these steps:
+The file **depression_prediction.ipynb** contains the code for image depression prediction using deep learning, online dataset, XAI (Explainable Artificial Intelligence), and deploy it into Streamlit and TensorFlow, you can follow these steps:
 
 Data Collection: Gather a large, diverse, and labeled dataset of facial images representing different levels of depression. Online datasets like the 'AffectNet' or 'FAD' (Facial Affective Dataset) can be used.
 

@@ -20,7 +20,7 @@ This example demonstrates how to train a deep learning model for medical image s
 
 ## Web App to deploy a resume parser model using streamlit
 
-The **resume_parser.ipynb** # Project Description:
+The **resume_parser.ipynb** contains a Web App to deploy a resume parser model using streamlit.
 
 To create a web app to deploy a resume parser model using Streamlit, you need to have the following:
 

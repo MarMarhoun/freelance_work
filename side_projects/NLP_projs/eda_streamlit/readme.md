@@ -17,3 +17,13 @@ The **ml_streamlit.ipynb** file describes how you can train a multiclassificatio
 ## Medical images segmentation using deep learning model and streamlit and TensorFlow
 
 This example demonstrates how to train a deep learning model for medical image segmentation using TensorFlow and the U-Net architecture, and how to deploy it using Streamlit. Note that you may need to adjust the code to fit your specific use case and dataset. Implement a more sophisticated data augmentation pipeline using Albumentations. Use a learning rate scheduler to adjust the learning rate during training. Add a callback to save the best model based on validation loss. Implement a sliding window approach for inference on high-resolution images.
+
+## Web App to deploy a resume parser model using streamlit
+
+The **resume_parser.ipynb** # Project Description:
+
+To create a web app to deploy a resume parser model using Streamlit, you need to have the following:
+
+A trained resume parser model (e.g., using Named Entity Recognition or Information Extraction techniques)
+Streamlit library installed in your Python environment.
+

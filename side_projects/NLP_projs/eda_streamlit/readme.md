@@ -51,4 +51,6 @@ TensorFlow Deployment: Deploy the model and the Streamlit app on TensorFlow usin
 
 ## Code to web scrapping and crawling using streamlit, Flask and Django
 
-The code for web scraping and crawling using Streamlit, you can create a user interface that allows users to input search queries and filter results. Here's an example of how you can modify the existing code to incorporate Streamlit:
+The code for web scraping and crawling using Streamlit, you can create a user interface that allows users to input search queries and filter results. 
+
+Web scraping and crawling using Flask & Django, you can create a Django application that utilizes Scrapy for scraping data and integrates it into Django views to return the scraped data as JSON responses.

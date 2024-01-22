@@ -43,4 +43,8 @@ Explainability: Implement XAI techniques like GradCAM, SHAP, or LIME to provide 
 
 Streamlit Integration: Create a user-friendly Streamlit app that allows users to upload facial images, preprocess them, and predict the level of depression using the trained model. Display the XAI visualizations to explain the model's predictions.
 
+## Medical images detection using streamlit and tensorflow
+
+The file **Image_detection.ipynb** contains an example of how to use Streamlit, TensorFlow, and an online medical image dataset to create a deep learning model for medical image detection. I will use the "MedNIST" dataset, a large-scale dataset of labeled clinical images, for this example.
+
 TensorFlow Deployment: Deploy the model and the Streamlit app on TensorFlow using TensorFlow Serving or TensorFlow Hub for easy integration with other applications.

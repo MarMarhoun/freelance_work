@@ -48,3 +48,7 @@ Streamlit Integration: Create a user-friendly Streamlit app that allows users to
 The file **Image_detection.ipynb** contains an example of how to use Streamlit, TensorFlow, and an online medical image dataset to create a deep learning model for medical image detection. I will use the "MedNIST" dataset, a large-scale dataset of labeled clinical images, for this example.
 
 TensorFlow Deployment: Deploy the model and the Streamlit app on TensorFlow using TensorFlow Serving or TensorFlow Hub for easy integration with other applications.
+
+## Code to web scrapping and crawling using streamlit, Flask and Django
+
+The code for web scraping and crawling using Streamlit, you can create a user interface that allows users to input search queries and filter results. Here's an example of how you can modify the existing code to incorporate Streamlit:

@@ -58,3 +58,17 @@ Web scraping and crawling using Flask & Django, you can create a Django applicat
 # Text-to-image web app using streamlit and tensorflow
 
 The following file **text_to_image.ipynb** is for a text-to-image web app using Streamlit and TensorFlow, I've made modifications to the original code to include text input, a text classification model, and a function to generate images based on the classified text. I'm using the InceptionV3 model for text classification.
+
+# NLP methods on cryptocurrency data using streamlit
+
+The following file **NLP_methods_cryptocurrency.ipynb** contains enhancing NLP methods for cryptocurrency data. I will provide some guidance on how to approach this problem using Python.
+
+First, let's gather the necessary data. You can use APIs to collect cryptocurrency data from various sources like CoinMarketCap, CoinGecko, or Binance. For social media data, you can use APIs from platforms like Twitter, Reddit, or Telegram.
+
+Once you have collected the data, preprocess it to make it suitable for NLP tasks. This may include:
+
+Tokenization: Splitting text into words, phrases, or other meaningful elements.
+Stopwords removal: Removing common words like 'the', 'is', 'at', etc., that do not carry much meaning.
+Lemmatization or stemming: Reducing words to their base or root form.
+Removing URLs, numbers, and special characters.
+Lowercasing: Convert all text to lowercase for consistency.

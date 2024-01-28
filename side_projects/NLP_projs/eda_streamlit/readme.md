@@ -54,3 +54,7 @@ TensorFlow Deployment: Deploy the model and the Streamlit app on TensorFlow usin
 The code for web scraping and crawling using Streamlit, you can create a user interface that allows users to input search queries and filter results. 
 
 Web scraping and crawling using Flask & Django, you can create a Django application that utilizes Scrapy for scraping data and integrates it into Django views to return the scraped data as JSON responses.
+
+# Text-to-image web app using streamlit and tensorflow
+
+The following file **text_to_image.ipynb** is for a text-to-image web app using Streamlit and TensorFlow, I've made modifications to the original code to include text input, a text classification model, and a function to generate images based on the classified text. I'm using the InceptionV3 model for text classification.

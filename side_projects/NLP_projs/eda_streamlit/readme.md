@@ -72,3 +72,7 @@ Stopwords removal: Removing common words like 'the', 'is', 'at', etc., that do n
 Lemmatization or stemming: Reducing words to their base or root form.
 Removing URLs, numbers, and special characters.
 Lowercasing: Convert all text to lowercase for consistency.
+
+# Book summarization using streamlit and tensorflow
+
+The file **book_sum.ipynb** contains a code to summarize a book using Streamlit and TensorFlow, you can create a user-friendly web application that allows users to upload a book, preprocess the text data, and then generate a summary using a trained summarization model. 

@@ -76,3 +76,7 @@ Lowercasing: Convert all text to lowercase for consistency.
 # Book summarization using streamlit and tensorflow
 
 The file **book_sum.ipynb** contains a code to summarize a book using Streamlit and TensorFlow, you can create a user-friendly web application that allows users to upload a book, preprocess the text data, and then generate a summary using a trained summarization model. 
+
+# Video summarization using reinforcement learning, GANs and streamlit and tensorflow
+
+The file **video_sum.ipynb** contains an existing code for video summarization using reinforcement learning, GANs, Streamlit, and TensorFlow, we can add a reward system based on user feedback to improve the summarization model over time. 

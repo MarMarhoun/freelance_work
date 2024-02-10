@@ -80,3 +80,7 @@ The file **book_sum.ipynb** contains a code to summarize a book using Streamlit 
 # Video summarization using reinforcement learning, GANs and streamlit and tensorflow
 
 The file **video_sum.ipynb** contains an existing code for video summarization using reinforcement learning, GANs, Streamlit, and TensorFlow, we can add a reward system based on user feedback to improve the summarization model over time. 
+
+# Outlier detection using streamlit and tensorflow
+
+The following file **outlier_detect.ipynb** contains the code for outlier detection using Streamlit and TensorFlow, you can create a user-friendly app that allows users to upload a dataset, preprocess the data, train an autoencoder for anomaly detection, and display the results.

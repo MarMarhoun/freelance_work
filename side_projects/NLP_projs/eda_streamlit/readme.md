@@ -84,3 +84,7 @@ The file **video_sum.ipynb** contains an existing code for video summarization u
 # Outlier detection using streamlit and tensorflow
 
 The following file **outlier_detect.ipynb** contains the code for outlier detection using Streamlit and TensorFlow, you can create a user-friendly app that allows users to upload a dataset, preprocess the data, train an autoencoder for anomaly detection, and display the results.
+
+# Outlier detection of online price prediction dataset using streamlit and tensorflow
+
+The following file **out_det2.ipynb** contains the code for outlier detection of an online price prediction dataset using Streamlit and TensorFlow, you can create a user-friendly app that allows users to upload their dataset, preprocess the data, and visualize the outliers. 

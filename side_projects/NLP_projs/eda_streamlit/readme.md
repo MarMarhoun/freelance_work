@@ -88,3 +88,7 @@ The following file **outlier_detect.ipynb** contains the code for outlier detect
 # Outlier detection of online price prediction dataset using streamlit and tensorflow
 
 The following file **out_det2.ipynb** contains the code for outlier detection of an online price prediction dataset using Streamlit and TensorFlow, you can create a user-friendly app that allows users to upload their dataset, preprocess the data, and visualize the outliers. 
+
+# Face and age detection using online dataset, streamlit and tensorflow
+
+The file **face_age_detection.ipynb** code for face and age detection using online dataset, Streamlit, and TensorFlow, I would suggest incorporating an age detection model in addition to the existing face detection and verification functionality. You can use the Indico's "age-detection-1" model, which is available in their TensorFlow model library.

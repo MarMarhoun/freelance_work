@@ -7,3 +7,14 @@ In this notebook, I will try to create a web app using [Gradio](https://www.grad
 > [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 
 ![Alt text]( https://github.com/MarMarhoun/freelance_work/blob/main/side_projects/NLP_projs/LLMs_with_Gradio/docs/sddNG.PNG "Interface")
+
+
+# Web app for image captioning and image generation using Gradio, LLM models
+
+## Project description:
+
+To create a web application for image captioning and image generation using Gradio, Hugging Face's models, and an online dataset, we can break down the task into several steps. Below is a structured approach to implement this functionality.
+![Alt text]( https://github.com/MarMarhoun/freelance_work/blob/main/side_projects/NLP_projs/LLMs_with_Gradio/docs/Screenshot%20from%202025-04-08%2009-02-07.png "Interface")
+
+
+> Notebook [link](https://colab.research.google.com/drive/1FxzE7_o0Dlnm0vvT-Q95lEjKP9nVaXSK?usp=sharing).
